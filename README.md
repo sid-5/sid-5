@@ -4,7 +4,7 @@
 ## I'm a Software Developer
 
 # 💫 About Me:
-I am a firmware/software developer currently in my final year of EnTc engineering. 
+I am a firmware/software developer.
 
 
 ## 🌐 Socials:
